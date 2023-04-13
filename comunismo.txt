@@ -1,5 +1,5 @@
 
-curso terminal/
+
 fundamentos de BBDD/
 java poo/
 java se/
