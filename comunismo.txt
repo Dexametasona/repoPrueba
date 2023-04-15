@@ -13,3 +13,4 @@ postgre sql/
 liberfacho
 
 --------------foooter
+este el footer de un comunista
