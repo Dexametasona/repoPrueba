@@ -1,5 +1,5 @@
 -------------header
-
+este es el header de un comunista
 comufacho
 
 fundamentos de BBDD/
